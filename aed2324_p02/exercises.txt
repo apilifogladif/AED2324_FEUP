@@ -1,0 +1,17 @@
+1)
+    a) f(n) = O(g(n))   TFF
+    b) f(n) = 0(g(n))   TTT
+    c) f(n) = Ω(g(n))   FTF
+    d) f(n) = 0(g(n))   TTT
+    e) f(n) = 0(g(n))   TTT
+    f) f(n) = O(g(n))   TFF
+    g) f(n) = 0(g(n))   TTT
+    h) f(n) = Ω(g(n))   FTF
+
+2)
+    a) 0(n^2)
+    b) 0(n)
+    c) 0(n^2)
+    d) 0(n*log2(n))
+    e) 0(n)
+    f)
